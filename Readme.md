@@ -8,7 +8,7 @@ Toutefois, regénerer ces images et les déposer sur un autre dépôt aura des c
 
 ## Contenu du dépôt
 
-* Les sources du plojet chevereto
+* Les sources du projet chevereto
 * Les sources de dockercoins
 * Les sources de grid (chapitre de mise-à-jour des conteneur)
 * Les sources de memory-leak (Chapitre pour les resources request et limits)
